@@ -1,0 +1,13 @@
+# ninja log v6
+1	859	1738117876624631776	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	a867c49680ca9aac
+7	584	1738118502293645022	CMakeFiles/task3_solution_test.dir/test/BasicSITPTests.cpp.o	f24dd9fb42ce2dd
+1	1283	1738117876624360564	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	d4c6f1d468b3041
+1	551	1738117876624748277	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	eb4f1d05e5560adb
+3	83	1738117891774818202	lib/libgtest.a	f3e2e0260090b16a
+4	534	1738117891775343501	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	4739d4c065093a2f
+83	128	1738117891854417797	lib/libgmock.a	6e71069340886522
+83	120	1738117891854695134	lib/libgtest_main.a	173d721be4f94a5c
+585	907	1738118503192292945	task3_solution_test	80fbf6664ed41053
+585	907	1738118503192292945	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/solution/cmake-build-debug/task3_solution_test[1]_tests.cmake	80fbf6664ed41053
+585	907	1738118503192292945	task3_solution_test[1]_tests.cmake	80fbf6664ed41053
+8	585	1738118502294680868	CMakeFiles/task3_solution_test.dir/test/AdvancedSITPTests.cpp.o	69136b513e60ceb9

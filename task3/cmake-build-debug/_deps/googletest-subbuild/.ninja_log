@@ -1,0 +1,21 @@
+# ninja log v6
+1	17	1738117388018932744	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	18c0f9a2440aa0f4
+806	822	1738117388824263832	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	b47ed6ebc142e04b
+745	760	1738117388762559896	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	e1b5da13c645f03f
+1	17	1738117388018932744	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	18c0f9a2440aa0f4
+760	776	1738117388777862380	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	951be5555481ea24
+822	842	1738117388844199645	CMakeFiles/googletest-populate-complete	1670b7e9fb48a2c2
+17	728	1738117388729835430	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1f456b0873c7161e
+822	842	1738117388844199645	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	1670b7e9fb48a2c2
+728	745	1738117388747169870	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	84139d31da549147
+728	745	1738117388747169870	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	84139d31da549147
+760	776	1738117388777862380	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	951be5555481ea24
+776	790	1738117388792714865	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	372aadce3f1605e8
+745	760	1738117388762559896	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	e1b5da13c645f03f
+17	728	1738117388729835430	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1f456b0873c7161e
+776	790	1738117388792714865	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	372aadce3f1605e8
+806	822	1738117388824263832	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	b47ed6ebc142e04b
+790	806	1738117388807888099	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	5f3373c0f329bc96
+790	806	1738117388807888099	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	5f3373c0f329bc96
+822	842	1738117388844199645	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	1670b7e9fb48a2c2
+822	842	1738117388844199645	/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task3/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	1670b7e9fb48a2c2

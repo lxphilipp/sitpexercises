@@ -1,0 +1,7 @@
+# ninja log v6
+4	400	1738118908344895041	solution/CMakeFiles/task3_solution.dir/src/main.cpp.o	500c480d1ea8ff28
+4	66	1738118817954807645	lib/libgtest.a	f3e2e0260090b16a
+66	99	1738118818016518846	lib/libgtest_main.a	173d721be4f94a5c
+2	505	1738117605229966860	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	7c5c20ae5482a6ef
+2	1331	1738117605229516146	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	e74872832df335d2
+400	489	1738118908740885742	solution/task3_solution	cbf8e77be78b7183

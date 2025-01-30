@@ -1,0 +1,11 @@
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task1/CMakeFiles/task1.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task1/CMakeFiles/edit_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task1/CMakeFiles/rebuild_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task3/CMakeFiles/edit_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task3/CMakeFiles/rebuild_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task4/CMakeFiles/edit_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task4/CMakeFiles/rebuild_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task5/CMakeFiles/edit_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task5/CMakeFiles/rebuild_cache.dir

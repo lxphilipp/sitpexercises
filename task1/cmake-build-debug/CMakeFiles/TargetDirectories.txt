@@ -1,0 +1,3 @@
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task1/cmake-build-debug/CMakeFiles/task1_comparison.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

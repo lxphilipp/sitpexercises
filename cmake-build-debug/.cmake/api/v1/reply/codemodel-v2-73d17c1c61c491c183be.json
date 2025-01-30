@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "task1",
+					"jsonFile" : "directory-task1-Debug-fe2c9cf9a02fc010b8bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "task3",
+					"jsonFile" : "directory-task3-Debug-76dfda0552f7336f6335.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task3"
+				},
+				{
+					"build" : "task4",
+					"jsonFile" : "directory-task4-Debug-dee471c3174139cc2a1a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task4"
+				},
+				{
+					"build" : "task5",
+					"jsonFile" : "directory-task5-Debug-35c46253eadbbd8de268.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "task5"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "exercise-sitp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "task1::@e4d0983e0b10c261a67f",
+					"jsonFile" : "target-task1-Debug-af66a58ab6d6d69d03a1.json",
+					"name" : "task1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug",
+		"source" : "/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
