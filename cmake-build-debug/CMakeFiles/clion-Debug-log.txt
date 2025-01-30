@@ -1,6 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp -B /Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug
-CMake Error at CMakeLists.txt:10 (add_subdirectory):
-  add_subdirectory given source "task2" which is not an existing directory.
-
-
--- Configuring incomplete, errors occurred!

@@ -1,5 +1,0 @@
-if(EXISTS "/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task3/task3_test[1]_tests.cmake")
-  include("/Users/philipple/Papers/Seminar/DesignPattern/Code/exercise-sitp/cmake-build-debug/task3/task3_test[1]_tests.cmake")
-else()
-  add_test(task3_test_NOT_BUILT task3_test_NOT_BUILT)
-endif()

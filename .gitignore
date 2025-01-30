@@ -1,44 +1,36 @@
-CMakeLists.txt.user
+# IDE-spezifische Dateien (IntelliJ/CLion)
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# CMake Build-Verzeichnisse
+cmake-build-*/
+CMakeFiles/
 CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
-CMakeUserPresets.json
-# Prerequisites
-*.d
+*.cmake
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Kompilierte Dateien
 *.exe
 *.out
 *.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Debug-Dateien
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
